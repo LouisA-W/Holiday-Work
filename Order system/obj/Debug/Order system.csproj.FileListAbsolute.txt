@@ -1,0 +1,7 @@
+C:\Users\Louis Ayin-Walsh\Documents\work\Computing\Order system\bin\Debug\Order system.exe.config
+C:\Users\Louis Ayin-Walsh\Documents\work\Computing\Order system\bin\Debug\Order system.exe
+C:\Users\Louis Ayin-Walsh\Documents\work\Computing\Order system\bin\Debug\Order system.pdb
+C:\Users\Louis Ayin-Walsh\Documents\work\Computing\Order system\obj\Debug\Order system.csprojAssemblyReference.cache
+C:\Users\Louis Ayin-Walsh\Documents\work\Computing\Order system\obj\Debug\Order system.csproj.CoreCompileInputs.cache
+C:\Users\Louis Ayin-Walsh\Documents\work\Computing\Order system\obj\Debug\Order system.exe
+C:\Users\Louis Ayin-Walsh\Documents\work\Computing\Order system\obj\Debug\Order system.pdb
